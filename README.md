@@ -1,4 +1,8 @@
 # Shopify
+
+[![Build Status](https://travis-ci.org/jpeng06/Shopify.svg?branch=master)](https://travis-ci.org/jpeng06/Shopify)
+
+
 ### 2019 Summer Intern Challenge  
 
 Let’s create an app that displays a Custom Collections list page and a Collection Details page. Your app will fetch the data from the Shopify Custom Collections REST API: https://shopicruit.myshopify.com/admin/custom_collections.json?page=1&access_token=c32313df0d0ef512ca64d5b336a0d7c6
